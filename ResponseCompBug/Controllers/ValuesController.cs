@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication1.Controllers
+namespace ResponseCompBug.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
